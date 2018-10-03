@@ -1,0 +1,31 @@
+{
+  "name": "blog-grid",
+  "version": "1.0.0",
+  "description": "Blog Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ]
+}
